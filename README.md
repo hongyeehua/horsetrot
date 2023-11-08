@@ -1,2 +1,3 @@
 - forecastmodel.keras is our forecasting model with keras, utilised fully in Python.
 - forecasts.parquet is the dataset for the holdout period with a winprobability associated with each observation.
+- HorseTrot.ipynb is our explanatory notebook.
